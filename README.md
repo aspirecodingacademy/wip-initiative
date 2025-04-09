@@ -51,7 +51,7 @@ SOFTWARE.
 **WIP Initiative** (Work In Progress Initiative) is ACA's open-source library, dedicated to providing high-quality software resources for educators and students. The name reflects the heart of software development: growth. As software evolves, so do the programmers behind it. The WIP Initiative reflects ACA's core values:
 
 -   **Excellence**: Quality over quantity. We'd rather release one resource that just works than two resources that kind of work.
--   **Faithfulness**: Our word is to be kept. Both in speech and in code. We strive to release and maintain software that does exactly what it claims to do.
+-   **Trust**: Our word is to be kept. Both in speech and in code. We strive to release and maintain software that does exactly what it claims to do.
 -   **Generosity**: We believe it is more blessed to give than to receive. 100% of the code under the WIP Initiative is free for any use, including commercial purposes. We only ask that you retain the original copyright notice and license text included in each repository.
 
 ## Library
