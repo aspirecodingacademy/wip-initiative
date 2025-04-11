@@ -58,6 +58,8 @@ SOFTWARE.
 
 ### Open Source Repositories
 
+-   [python-appetizers]((https://github.com/aspirecodingacademy/python-appetizers)
+    -   A collection of Python apps, not in explicit tutorial format.
 -   [Remote Development Intro](https://github.com/aspirecodingacademy/remote-development-intro)
     -   For beginners: Setting up your first GitHub Codespace
 
