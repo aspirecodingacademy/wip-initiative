@@ -68,6 +68,7 @@ SOFTWARE.
 Contact us via email to register for workshops.
 
 -   April 2025 | Remote Development Intro Workshop
+-   May 2025 | The Modern Extracurricular: Coding
 
 ## Built With
 
